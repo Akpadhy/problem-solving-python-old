@@ -1,4 +1,5 @@
 # simple bubble sort algorithm
+# purpose is to compare the run times of bubble, selection and merge sort 
 
 import time, random, turtle, matplotlib.pyplot as plt 
 
