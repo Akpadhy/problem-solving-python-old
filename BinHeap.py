@@ -1,3 +1,4 @@
+# A random comment (see comment below)
 # A random comment to see what committing to a new branch actually does (beginner git stuff)
 # defining a binary heap class as a list
 # each left child is at 2p, right child at 2p+1
@@ -63,4 +64,3 @@ heap = BinHeap()
 heap.insert_heap(4)
 heap.insert_heap(15)
 heap.insert_heap(5)
-
