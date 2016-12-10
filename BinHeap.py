@@ -1,3 +1,4 @@
+# A random comment to see what committing to a new branch actually does (beginner git stuff)
 # defining a binary heap class as a list
 # each left child is at 2p, right child at 2p+1
 # priority implies that the key of parents is less than or equal to the children's key
